@@ -1,0 +1,14 @@
+1: create a new projects
+npx create-react-app my-app
+cd my-app
+npm start
+---------------------------------------------
+2: if you have problem
+npm install -g npm@latest
+npm install node
+npm install -g yarn
+yarn cache clean
+npx create-react-app my-app
+----------------------------------------------------------------------
+mybe this sulotion work:
+nvm install 10.15.0 (ndoe version)

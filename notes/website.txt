@@ -1,0 +1,9 @@
+1: Get free JSON API:
+https://jsonplaceholder.typicode.com/users
+----------------------------------------------------
+2: Get free Photo API
+https://robohash.org/1?set=set2
+-----------------------------------------------------
+3: Font family
+https://fonts.google.com/
+-----------------------------------------------------
